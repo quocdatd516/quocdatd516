@@ -548,7 +548,7 @@
 </script>
 <footer class="footer">
     <p>© 2025 Bản quyền thuộc về: <strong>QB</strong></p>
-    <p>📞 Điện thoại: <a href="tel:0354047552">0354047552</a> | ✉️ Email: <a href="mailto:quocdatd516@gmail.com">quocdatd516@gmail.com</a></p>
+    <p></p>
     <nav>
         <a href="help.html">Hướng dẫn sử dụng</a>
     </nav>
